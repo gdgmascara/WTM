@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336961163574",
+    "firebase_url": "https://wtmmascara-6b37e.firebaseio.com",
+    "project_id": "wtmmascara-6b37e",
+    "storage_bucket": "wtmmascara-6b37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336961163574:android:6a1d71462ef4653e",
+        "android_client_info": {
+          "package_name": "com.example.souad.wtm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336961163574-o0gr6klu7numhhksn573k05mm1be9rht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHT-KXJ0pQyBrPSKcHGVElloEPWy4C7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336961163574-o0gr6klu7numhhksn573k05mm1be9rht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
